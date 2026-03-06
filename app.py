@@ -3,7 +3,7 @@ import pandas as pd
 
 #Configuração da página (Frond-End) ---
 st.set_page_config(page_title="Inclua - App")
-page_icon="🧩", layout="wide")
+page_icon="🧩", layout="wide";
 
 #Estilo simples para o título 
 st.title("🧩Projeto Inclua")
