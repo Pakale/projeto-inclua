@@ -14,7 +14,7 @@ with.sidebar:
     st.header("Configurações")
     nome_aluno = 
     st.text_input("Nome do Aluno:",)
-    value="Ex: João da Silva")
+    value=("Ex: João da Silva")
     nivel =st.select_slider("Nivel de Suporte (TEA):",options=[1,2,3])
     st.info(f"Visualizando recursos para Nível {nível}")
 
